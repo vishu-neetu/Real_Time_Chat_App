@@ -5,4 +5,4 @@ Clone the project and run to install all the dependencies.
   ``` 
   npm install
   ```
-  You can view in on PORT 3000 on your local machine.
+  You can view in on PORT 3000 on your localmachine.
